@@ -52,11 +52,17 @@ header{
     font-size: 25px;
 
 }
-
 .slogan h3,.slogan h4 {
     margin: 0;
     float: left;
     color: #505c66;
+    margin-right: 20px;
+}
+
+.since{
+    font-style: italic;
+    
+    
 }
 
 
