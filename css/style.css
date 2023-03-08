@@ -462,41 +462,7 @@ span{
       animation: none;
     }
   }
-@media  screen and (max-width: 1800px){
-    .container{
-    
-        grid-template-columns: 1fr 1024px 1fr;
-        grid-template-rows: 1fr 10fr 3fr 100px;
-        height: 100%;
-    }
-    aside{
-        grid-column: 2/span 1;
-        grid-row: 3/span 1;
-        left: 0;
-        text-align: center;
-        border: none;
-        width: 100%;
 
-
-        
-    }
-    aside h2{
-        border-bottom: #ffffff solid 1px;
-    }
-
-    aside ul{
-
-        align-items: center;
-        padding: 0;
-    
-    
-    }
-    footer{
-        grid-column: 2/span 1;
-        grid-row: 4;
-    }
-
-}
 
 @media  screen and (max-width: 1024px){
     .container{
