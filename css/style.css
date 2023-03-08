@@ -210,7 +210,7 @@ nav ul {
 
 .content-container{
     position: relative;
-    grid-row: 2/span 2;
+    grid-row: 2/span 1;
     grid-column: 1/span 3;
     display: grid;
     grid-template-rows: 1fr 1fr;
